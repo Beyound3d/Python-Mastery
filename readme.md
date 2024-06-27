@@ -4,11 +4,11 @@ Python is an interpreted, high-level, object-oriented programming language with 
 
 Python is widely used in various domains, including:
 
-1. Web development (both frontend and backend) [3].
-2. Data science and data analysis [6].
-3. Machine learning and artificial intelligence [6].
-4. Automation and scripting [4].
-5. Software development and testing [3].
+1. Web development (both frontend and backend).
+2. Data science and data analysis.
+3. Machine learning and artificial intelligence.
+4. Automation and scripting.
+5. Software development and testing.
 Its extensive standard library and the presence of third-party libraries make it versatile and powerful for many types of software development projects.
 
 
@@ -41,7 +41,18 @@ Histogram, Sine and Cosine Curve, 3D objects
 - **Unit 6**
 Exception Handling and File Handling: Reading and writing text and structured files, Errors 
 and Exceptions. 
- 
 
+# 🧚🏻‍♀Django
+Django is a high-level Python web framework that promotes rapid development and clean, pragmatic design. It is designed to help developers take applications from concept to completion as quickly as possible, emphasizing reusability, and following the "don't repeat yourself" (DRY) principle.
+
+Key features of Django include:
+
+1. ORM (Object-Relational Mapping): Provides a way to interact with databases using Python code instead of SQL.
+2. Admin Interface: Automatically generated admin interface for managing data models.
+3. Security: Built-in protection against common security threats such as SQL injection, cross-site scripting, and cross-site request forgery.
+4. Scalability: Designed to scale well with high traffic demands.
+5. Template Engine: Allows for creating dynamic HTML templates.
+6 .URL Routing: Maps URLs to views using a simple syntax.
+Django is widely used in web development for its simplicity, powerful features, and ability to handle complex applications with ease.
 
 
