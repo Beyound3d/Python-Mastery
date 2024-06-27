@@ -1,0 +1,9 @@
+pip install pipenv
+pipenv install django
+pipenv shell //activate env file
+django-admin
+django-admin startproject <name> . // for root is dot
+
+django-admin runserver 
+python manage.py
+python manage.py runserver //work
