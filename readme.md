@@ -21,10 +21,11 @@ Download the latest version of Python from the [official Python website](https:/
 
 ### Verify Installation
 Open a terminal or command prompt and type:
-```bash
+```
 python --version
+```
 
-## 📔Course Learning Outcomes:
+# Course Learning Outcomes:
 On successful completion of the course, students will be able to:
 1. Develop, document, and debug modular python programs to solve computational problems.
 2. Select a suitable programming construct and data structure for a situation.
